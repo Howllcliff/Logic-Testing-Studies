@@ -31,9 +31,11 @@ Here's what I'm using for this project:
 No big mystery, the structure is pretty straightforward:
 
 ```text
-. # Eu vou arrumar isso mais tarde #
-├── ##########
-│   └── 
+. 
+├── Python 
+│   └── Estudos-python ## ( Where the magic in python hapens )
+│   └── pp2-rodrigo-vieira 
+│   └── pp3-rodrigo-vieira
 ├── ##########
 │   └── #########
 ├── ##########
