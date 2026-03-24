@@ -1,4 +1,7 @@
-#Esse arquivo contem a resolução das duas questoes
+                                              # Prova pratica de Logica de Programação - CEUB #                                  
+# Aluno: Rodrigo de Seabra Vieira   
+                                                                # Questão 1 #
+
 print("\n------- Questão 1 PP3 -- Rodrigo Vieira -------")
 print("Digite os números inteiros, Para finalizar: Digite '0'.\n")
 
@@ -40,7 +43,7 @@ else:
     print("Nenhum número ímpar foi digitado.\n")
 
 
-##############################################################################################################################################
+                                                                # Questão 2 #
 
 
 print("\n------- Questão 2 PP3 -- Rodrigo Vieira -------\n")
